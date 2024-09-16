@@ -24,7 +24,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/insta-reach-analysis.git
+git clone https://github.com/shushantsood09/insta-reach-analysis.git
 cd insta-reach-analysis
 Install dependencies:
 
